@@ -137,7 +137,7 @@ export default function Home() {
                     icon = (
                       <Image
                         key={index}
-                        src="pages/Default_masterpiece_realistic_27yr_old_female_beautiful_face_w_2_584666f2-7ef1-4e63-a7ae-24dd1f595c75_1.jpeg"
+                        src="Default_masterpiece_realistic_27yr_old_female_beautiful_face_w_2_584666f2-7ef1-4e63-a7ae-24dd1f595c75_1.jpeg"
                         alt="AI"
                         width="40"
                         height="40"
